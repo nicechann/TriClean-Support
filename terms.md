@@ -5,3 +5,13 @@
 본 앱을 다운로드하고 사용하는 것은 아래 링크의 약관에 동의하는 것으로 간주됩니다.
 
 [Apple 표준 EULA 보기 (Licensed Application End User License Agreement)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+
+---
+
+# Terms of Use (English)
+
+The Terms of Use for **TriClean** rely on Apple’s Standard License Agreement (EULA).
+
+By downloading and using this app, you agree to the terms linked below.
+
+[View Apple Standard EULA (Licensed Application End User License Agreement)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
